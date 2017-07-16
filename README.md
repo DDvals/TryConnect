@@ -1,4 +1,4 @@
-#TryConnect
+# TryConnect
 
 Simple program written in C that tests if a port is open on a host.
 At the moment works only with ip address.
